@@ -23,3 +23,4 @@
 9. [Переменные и строгий режим](./Chapter2/varAndStrictMode.md)
 10. [10. (д) Правила и типы названия переменных](./Chapter2/rulesVarNameTypes.md)
 11. [Классификация типов данных в JavaScript](./Chapter2/classification-data-types.md)
+12. [(д) Разница между объектами и массивами и неочевидные синтаксические возможности](./Chapter2/diffference-between-objects-and-arrays.md)

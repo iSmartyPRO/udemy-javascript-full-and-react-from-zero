@@ -21,3 +21,4 @@
 7. [Что такое JS и как его покдлючить к странице](./Chapter2/whatIsJs.md)
 8. [Про упражнения и дополнительные уроки.](./Chapter2/aboutAdditionalLessons.md)
 9. [Переменные и строгий режим](./Chapter2/varAndStrictMode.md)
+10. [10. (д) Правила и типы названия переменных](./Chapter2/rulesVarNameTypes.md)
